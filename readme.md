@@ -1,3 +1,3 @@
-# HELLO WORlD
+# Django project. 
 
-Make love
+Test. I don't know django.
